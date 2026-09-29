@@ -1,0 +1,19 @@
+{
+    "categories": {
+        "Footwear": [
+            "Running",
+            "Casual"
+        ],
+        "Apparel": [
+            "Jeans",
+            "Shirts",
+            "Activewear"
+        ],
+        "Electronics": [
+            "Television",
+            "Smartphones",
+            "Laptops",
+            "Audio"
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+product_id,title,description,brand,price,category,subcategory
+P0001,Nike Men's Running Shoes Black,Running shoes for men,Nike,67,Footwear,Running
+P0002,Nike Men's Running Shoes White,Running shoes for men,Nike,84,Footwear,Running
+P0003,Nike Men's Running Shoes Blue,Running shoes for men,Nike,101,Footwear,Running
+P0004,Nike Men's Running Shoes Red,Running shoes for men,Nike,118,Footwear,Running
+P0005,Nike Men's Running Shoes Green,Running shoes for men,Nike,135,Footwear,Running
+P0006,Adidas Women's Running Shoes Black,Running shoes for women,Adidas,152,Footwear,Running
+P0007,Adidas Women's Running Shoes White,Running shoes for women,Adidas,169,Footwear,Running
+P0008,Adidas Women's Running Shoes Blue,Running shoes for women,Adidas,186,Footwear,Running
+P0009,Adidas Women's Running Shoes Red,Running shoes for women,Adidas,203,Footwear,Running
+P0010,Adidas Women's Running Shoes Green,Running shoes for women,Adidas,220,Footwear,Running
+P0011,Puma Men's Sneakers Black,Casual sneakers for men,Puma,237,Other,Other
+P0012,Puma Men's Sneakers White,Casual sneakers for men,Puma,254,Other,Other
+P0013,Puma Men's Sneakers Blue,Casual sneakers for men,Puma,271,Other,Other
+P0014,Puma Men's Sneakers Red,Casual sneakers for men,Puma,288,Other,Other
+P0015,Puma Men's Sneakers Green,Casual sneakers for men,Puma,305,Other,Other
+P0016,Nike Women's Sneakers Black,Lifestyle sneakers for women,Nike,322,Other,Other
+P0017,Nike Women's Sneakers White,Lifestyle sneakers for women,Nike,339,Other,Other
+P0018,Nike Women's Sneakers Blue,Lifestyle sneakers for women,Nike,356,Other,Other
+P0019,Nike Women's Sneakers Red,Lifestyle sneakers for women,Nike,373,Other,Other
+P0020,Nike Women's Sneakers Green,Lifestyle sneakers for women,Nike,390,Other,Other
+P0021,Levi's Men's Blue Jeans Black,Classic denim jeans for men,Levi's,407,Apparel,Jeans
+P0022,Levi's Men's Blue Jeans White,Classic denim jeans for men,Levi's,424,Apparel,Jeans
+P0023,Levi's Men's Blue Jeans Blue,Classic denim jeans for men,Levi's,441,Apparel,Jeans
+P0024,Levi's Men's Blue Jeans Red,Classic denim jeans for men,Levi's,458,Apparel,Jeans
+P0025,Levi's Men's Blue Jeans Green,Classic denim jeans for men,Levi's,475,Apparel,Jeans
+P0026,Levi's Women's Blue Jeans Black,Classic denim jeans for women,Levi's,492,Apparel,Jeans
+P0027,Levi's Women's Blue Jeans White,Classic denim jeans for women,Levi's,509,Apparel,Jeans
+P0028,Levi's Women's Blue Jeans Blue,Classic denim jeans for women,Levi's,526,Apparel,Jeans
+P0029,Levi's Women's Blue Jeans Red,Classic denim jeans for women,Levi's,543,Apparel,Jeans
+P0030,Levi's Women's Blue Jeans Green,Classic denim jeans for women,Levi's,560,Apparel,Jeans
+P0031,Nike Men's T-Shirt Black,Cotton sports t-shirt,Nike,577,Apparel,Shirts
+P0032,Nike Men's T-Shirt White,Cotton sports t-shirt,Nike,594,Apparel,Shirts
+P0033,Nike Men's T-Shirt Blue,Cotton sports t-shirt,Nike,611,Apparel,Shirts
+P0034,Nike Men's T-Shirt Red,Cotton sports t-shirt,Nike,628,Apparel,Shirts
+P0035,Nike Men's T-Shirt Green,Cotton sports t-shirt,Nike,645,Apparel,Shirts
+P0036,Adidas Women's Leggings Black,Athletic leggings,Adidas,662,Apparel,Activewear
+P0037,Adidas Women's Leggings White,Athletic leggings,Adidas,679,Apparel,Activewear
+P0038,Adidas Women's Leggings Blue,Athletic leggings,Adidas,696,Apparel,Activewear
+P0039,Adidas Women's Leggings Red,Athletic leggings,Adidas,713,Apparel,Activewear
+P0040,Adidas Women's Leggings Green,Athletic leggings,Adidas,730,Apparel,Activewear
+P0041,Samsung 55 Inch 4K Smart TV Black,4K smart television,Samsung,747,Electronics,Television
+P0042,Samsung 55 Inch 4K Smart TV White,4K smart television,Samsung,764,Electronics,Television
+P0043,Samsung 55 Inch 4K Smart TV Blue,4K smart television,Samsung,781,Electronics,Television
+P0044,Samsung 55 Inch 4K Smart TV Red,4K smart television,Samsung,798,Electronics,Television
+P0045,Samsung 55 Inch 4K Smart TV Green,4K smart television,Samsung,815,Electronics,Television
+P0046,LG 65 Inch OLED TV Black,OLED television,LG,832,Electronics,Television
+P0047,LG 65 Inch OLED TV White,OLED television,LG,849,Electronics,Television
+P0048,LG 65 Inch OLED TV Blue,OLED television,LG,866,Electronics,Television
+P0049,LG 65 Inch OLED TV Red,OLED television,LG,883,Electronics,Television
+P0050,LG 65 Inch OLED TV Green,OLED television,LG,900,Electronics,Television
+P0051,Apple iPhone 15 Smartphone Black,Apple smartphone,Apple,917,Electronics,Smartphones
+P0052,Apple iPhone 15 Smartphone White,Apple smartphone,Apple,934,Electronics,Smartphones
+P0053,Apple iPhone 15 Smartphone Blue,Apple smartphone,Apple,51,Electronics,Smartphones
+P0054,Apple iPhone 15 Smartphone Red,Apple smartphone,Apple,68,Electronics,Smartphones
+P0055,Apple iPhone 15 Smartphone Green,Apple smartphone,Apple,85,Electronics,Smartphones
+P0056,Samsung Galaxy Smartphone Black,Android smartphone,Samsung,102,Electronics,Smartphones
+P0057,Samsung Galaxy Smartphone White,Android smartphone,Samsung,119,Electronics,Smartphones
+P0058,Samsung Galaxy Smartphone Blue,Android smartphone,Samsung,136,Electronics,Smartphones
+P0059,Samsung Galaxy Smartphone Red,Android smartphone,Samsung,153,Electronics,Smartphones
+P0060,Samsung Galaxy Smartphone Green,Android smartphone,Samsung,170,Electronics,Smartphones
+P0061,Dell Inspiron Laptop Black,Windows laptop,Dell,187,Electronics,Laptops
+P0062,Dell Inspiron Laptop White,Windows laptop,Dell,204,Electronics,Laptops
+P0063,Dell Inspiron Laptop Blue,Windows laptop,Dell,221,Electronics,Laptops
+P0064,Dell Inspiron Laptop Red,Windows laptop,Dell,238,Electronics,Laptops
+P0065,Dell Inspiron Laptop Green,Windows laptop,Dell,255,Electronics,Laptops
+P0066,HP Pavilion Laptop Black,Windows notebook,HP,272,Electronics,Laptops
+P0067,HP Pavilion Laptop White,Windows notebook,HP,289,Electronics,Laptops
+P0068,HP Pavilion Laptop Blue,Windows notebook,HP,306,Electronics,Laptops
+P0069,HP Pavilion Laptop Red,Windows notebook,HP,323,Electronics,Laptops
+P0070,HP Pavilion Laptop Green,Windows notebook,HP,340,Electronics,Laptops
+P0071,Sony Wireless Headphones Black,Bluetooth headphones,Sony,357,Electronics,Audio
+P0072,Sony Wireless Headphones White,Bluetooth headphones,Sony,374,Electronics,Audio
+P0073,Sony Wireless Headphones Blue,Bluetooth headphones,Sony,391,Electronics,Audio
+P0074,Sony Wireless Headphones Red,Bluetooth headphones,Sony,408,Electronics,Audio
+P0075,Sony Wireless Headphones Green,Bluetooth headphones,Sony,425,Electronics,Audio
+P0076,Apple AirPods Wireless Headphones Black,Wireless audio headphones,Apple,442,Electronics,Audio
+P0077,Apple AirPods Wireless Headphones White,Wireless audio headphones,Apple,459,Electronics,Audio
+P0078,Apple AirPods Wireless Headphones Blue,Wireless audio headphones,Apple,476,Electronics,Audio
+P0079,Apple AirPods Wireless Headphones Red,Wireless audio headphones,Apple,493,Electronics,Audio
+P0080,Apple AirPods Wireless Headphones Green,Wireless audio headphones,Apple,510,Electronics,Audio

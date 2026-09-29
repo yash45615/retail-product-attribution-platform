@@ -1,0 +1,20 @@
+{
+    "customer": "Customer B",
+    "mapping": {
+        "Footwear": {
+            "Running": "Athletic",
+            "Casual": "Lifestyle"
+        },
+        "Apparel": {
+            "Jeans": "Bottomwear",
+            "Shirts": "Upperwear",
+            "Activewear": "Performance"
+        },
+        "Electronics": {
+            "Television": "Home Entertainment",
+            "Smartphones": "Smart Devices",
+            "Laptops": "Computing",
+            "Audio": "Personal Audio"
+        }
+    }
+}
